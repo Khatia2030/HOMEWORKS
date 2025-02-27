@@ -72,4 +72,26 @@ class FootballTeam:
                 team.show_team_info()  # კლუბის ინფორმაციის გამოყვანა
                 team.update_player(10, "goals", 5)  # განახლება
                 team.show_team_info()  
+        def show_player_info(self, number):
+        
+         for player in self.players:
+            if player["number"] == number:
+                print(f"მოთამაშის ინფორმაცია (ნომერი {number}):")
+                print(f"სახელი: {player['name']}")
+                print(f"პოზიცია: {player['position']}")
+                print(f"ასაკი: {player['age']}")
+                print(f"ეროვნება: {player['nationality']}")
+                return
+        print(f"მოთამაშე ნომრით {number} ვერ მოიძებნა გუნდში.")
+
+        team = FootballTeam("FC Example", "John Doe")
+        team.add_player("Leo Messi", "Forward", 10, 36, "Argentinian")
+        team.add_player("Cristiano Ronaldo", "Forward", 7, 39, "Portuguese")
+        team.show_team_info()  
+        team.update_player(10, "goals", 5)  
+        team.show_team_info()  
+        team.show_player_info(10)  
+        team.show_player_info(7)    
+        team.show_player_info(9)
+
 
