@@ -1,0 +1,4 @@
+1. khatia eliauri
+2. natia kapanadze
+3. stop C:/Users/admin/Desktop/Python/homeworks/venv/Scripts/python.exe c:/Users/admin/Desktop/Python/homeworks/homework11/main.py
+1. soso eliauri
