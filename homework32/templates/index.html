@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Movies</title>
+    <style>
+        .high-rating {
+            color: green;
+        }
+        .medium-rating {
+            color: orange;
+        }
+        .low-rating {
+            color: gray;
+        }
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            padding: 8px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Movies List</h1>
+    <p>Total Movies: {{ total }}</p>
+    <p>Average Duration: {{ average | round(2) }} minutes</p>
+
+    <table>
+        <tr>
+            <th>Title</th>
+            <th>Year</th>
+            <th>Rating</th>
+            <th>Genre</th>
+            <th>Duration</th>
+        </tr>
+        {% for movie in movies %}
+        <tr class="
+            {% if movie.rating >= 9 %}
+                high-rating
+            {% elif movie.rating >= 8.5 %}
+                medium-rating
+            {% else %}
+                low-rating
+            {% endif %}
+        ">
+            <td>{{ movie.title }}</td>
+            <td>{{ movie.year }}</td>
+            <td>{{ movie.rating }}</td>
+            <td>{{ movie.genre }}</td>
+            <td>{{ movie.duration }} min</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
