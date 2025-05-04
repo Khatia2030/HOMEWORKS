@@ -1,0 +1,387 @@
+[
+    {
+        "first_name": "ლიზა",
+        "last_name": "ღვინიაშვილი",
+        "email": "nalievi@example.net",
+        "age": 36,
+        "is_active": true
+    },
+    {
+        "first_name": "ჯემალ",
+        "last_name": "ადეიშვილი",
+        "email": "pati05@example.net",
+        "age": 38,
+        "is_active": true
+    },
+    {
+        "first_name": "გელა",
+        "last_name": "დარბაიძე",
+        "email": "emagocirize@example.net",
+        "age": 67,
+        "is_active": true
+    },
+    {
+        "first_name": "ჟენია",
+        "last_name": "აფციაური",
+        "email": "tamari95@example.org",
+        "age": 69,
+        "is_active": true
+    },
+    {
+        "first_name": "თინა",
+        "last_name": "საჯაია",
+        "email": "begiashviliala@example.net",
+        "age": 22,
+        "is_active": true
+    },
+    {
+        "first_name": "თეიმურაზ",
+        "last_name": "შალამბერიძე",
+        "email": "idalakishvili@example.org",
+        "age": 37,
+        "is_active": true
+    },
+    {
+        "first_name": "მარიამ",
+        "last_name": "ლომთაძე",
+        "email": "zmargvelashvili@example.com",
+        "age": 22,
+        "is_active": true
+    },
+    {
+        "first_name": "ხვიჩა",
+        "last_name": "ბერიძე",
+        "email": "jaba49@example.com",
+        "age": 55,
+        "is_active": true
+    },
+    {
+        "first_name": "როზა",
+        "last_name": "გაბელია",
+        "email": "iberaia@example.net",
+        "age": 67,
+        "is_active": true
+    },
+    {
+        "first_name": "იოსებ",
+        "last_name": "ბიბილაშვილი",
+        "email": "rkalandia@example.net",
+        "age": 47,
+        "is_active": true
+    },
+    {
+        "first_name": "ნუგზარ",
+        "last_name": "დავითაშვილი",
+        "email": "tornike07@example.com",
+        "age": 34,
+        "is_active": true
+    },
+    {
+        "first_name": "ბექა",
+        "last_name": "ტალახაძე",
+        "email": "kristinechixlaze@example.org",
+        "age": 64,
+        "is_active": true
+    },
+    {
+        "first_name": "გურამ",
+        "last_name": "ჩაკვეტაძე",
+        "email": "bukiakonstantine@example.org",
+        "age": 45,
+        "is_active": true
+    },
+    {
+        "first_name": "კობა",
+        "last_name": "პაპაშვილი",
+        "email": "gviniashvilidiana@example.net",
+        "age": 34,
+        "is_active": true
+    },
+    {
+        "first_name": "ლეილა",
+        "last_name": "ბუჩუკური",
+        "email": "teimuraz01@example.org",
+        "age": 29,
+        "is_active": true
+    },
+    {
+        "first_name": "ევგენია",
+        "last_name": "იმნაძე",
+        "email": "kalandazepikria@example.org",
+        "age": 50,
+        "is_active": true
+    },
+    {
+        "first_name": "ვეფხვია",
+        "last_name": "გაჯიევა",
+        "email": "basilazemargalita@example.org",
+        "age": 28,
+        "is_active": true
+    },
+    {
+        "first_name": "ვლადიმერ",
+        "last_name": "კაციტაძე",
+        "email": "olia89@example.net",
+        "age": 50,
+        "is_active": true
+    },
+    {
+        "first_name": "მარო",
+        "last_name": "გორგილაძე",
+        "email": "nguliashvili@example.org",
+        "age": 60,
+        "is_active": true
+    },
+    {
+        "first_name": "მირიან",
+        "last_name": "ტყებუჩავა",
+        "email": "knadirashvili@example.com",
+        "age": 47,
+        "is_active": true
+    },
+    {
+        "first_name": "ნატო",
+        "last_name": "გიორგობიანი",
+        "email": "eduardgogichashvili@example.com",
+        "age": 30,
+        "is_active": true
+    },
+    {
+        "first_name": "ციალა",
+        "last_name": "ჟღენტი",
+        "email": "nino54@example.com",
+        "age": 51,
+        "is_active": true
+    },
+    {
+        "first_name": "რატი",
+        "last_name": "მამულაძე",
+        "email": "rati29@example.net",
+        "age": 54,
+        "is_active": true
+    },
+    {
+        "first_name": "თეონა",
+        "last_name": "ხვედელიძე",
+        "email": "zkamadaze@example.net",
+        "age": 59,
+        "is_active": true
+    },
+    {
+        "first_name": "მზია",
+        "last_name": "ცუცქირიძე",
+        "email": "rberuashvili@example.org",
+        "age": 32,
+        "is_active": true
+    },
+    {
+        "first_name": "ნათია",
+        "last_name": "გორგოძე",
+        "email": "wkevxishvili@example.net",
+        "age": 18,
+        "is_active": true
+    },
+    {
+        "first_name": "დარეჯან",
+        "last_name": "გულიაშვილი",
+        "email": "marinagorgoze@example.net",
+        "age": 26,
+        "is_active": true
+    },
+    {
+        "first_name": "ანი",
+        "last_name": "ტაბატაძე",
+        "email": "neparizetina@example.org",
+        "age": 29,
+        "is_active": true
+    },
+    {
+        "first_name": "ჯულიეტა",
+        "last_name": "მგალობლიშვილი",
+        "email": "gumberizexatuna@example.com",
+        "age": 37,
+        "is_active": true
+    },
+    {
+        "first_name": "ანზორ",
+        "last_name": "ნაცვლიშვილი",
+        "email": "temur85@example.org",
+        "age": 19,
+        "is_active": true
+    },
+    {
+        "first_name": "ნოდარ",
+        "last_name": "ქუთათელაძე",
+        "email": "ojikia@example.net",
+        "age": 59,
+        "is_active": true
+    },
+    {
+        "first_name": "ფატი",
+        "last_name": "ხორავა",
+        "email": "mchinchalaze@example.com",
+        "age": 50,
+        "is_active": true
+    },
+    {
+        "first_name": "არმენ",
+        "last_name": "ბაქრაძე",
+        "email": "zaur11@example.org",
+        "age": 60,
+        "is_active": true
+    },
+    {
+        "first_name": "გოგიტა",
+        "last_name": "მგელაძე",
+        "email": "lika89@example.net",
+        "age": 63,
+        "is_active": true
+    },
+    {
+        "first_name": "ნატალია",
+        "last_name": "მეგრელიშვილი",
+        "email": "nodarkilaze@example.net",
+        "age": 52,
+        "is_active": true
+    },
+    {
+        "first_name": "კონსტანტინე",
+        "last_name": "აფციაური",
+        "email": "dodochaduneli@example.com",
+        "age": 67,
+        "is_active": true
+    },
+    {
+        "first_name": "თეა",
+        "last_name": "ბუჩუკური",
+        "email": "gchxikvaze@example.com",
+        "age": 52,
+        "is_active": true
+    },
+    {
+        "first_name": "ედუარდ",
+        "last_name": "ხურცილავა",
+        "email": "tatianaadeishvili@example.org",
+        "age": 25,
+        "is_active": true
+    },
+    {
+        "first_name": "აზა",
+        "last_name": "ყურაშვილი",
+        "email": "dbigvava@example.com",
+        "age": 64,
+        "is_active": true
+    },
+    {
+        "first_name": "სვეტლანა",
+        "last_name": "კაკაურიძე",
+        "email": "vera95@example.org",
+        "age": 46,
+        "is_active": true
+    },
+    {
+        "first_name": "გრიგოლ",
+        "last_name": "ღარიბაშვილი",
+        "email": "cialagoginashvili@example.com",
+        "age": 56,
+        "is_active": true
+    },
+    {
+        "first_name": "თორნიკე",
+        "last_name": "ინასარიძე",
+        "email": "eterbregvaze@example.org",
+        "age": 43,
+        "is_active": true
+    },
+    {
+        "first_name": "ზაქარია",
+        "last_name": "ყაველაშვილი",
+        "email": "gogagogichaishvili@example.com",
+        "age": 36,
+        "is_active": true
+    },
+    {
+        "first_name": "რუსუდან",
+        "last_name": "ქამადაძე",
+        "email": "ciala02@example.org",
+        "age": 37,
+        "is_active": true
+    },
+    {
+        "first_name": "სოფიო",
+        "last_name": "ჩაჩუა",
+        "email": "xgobejishvili@example.org",
+        "age": 21,
+        "is_active": true
+    },
+    {
+        "first_name": "გოგი",
+        "last_name": "ჭეიშვილი",
+        "email": "idvali@example.com",
+        "age": 55,
+        "is_active": true
+    },
+    {
+        "first_name": "ნაზიბროლა",
+        "last_name": "ხეცურიანი",
+        "email": "kajaiarita@example.org",
+        "age": 20,
+        "is_active": true
+    },
+    {
+        "first_name": "ზაქარია",
+        "last_name": "მახარაძე",
+        "email": "vdavitashvili@example.org",
+        "age": 46,
+        "is_active": true
+    },
+    {
+        "first_name": "ინგა",
+        "last_name": "ბოჭორიშვილი",
+        "email": "xachizeaslan@example.net",
+        "age": 59,
+        "is_active": true
+    },
+    {
+        "first_name": "გოდერძი",
+        "last_name": "შავაძე",
+        "email": "giga60@example.net",
+        "age": 51,
+        "is_active": true
+    },
+    {
+        "first_name": "ნანი",
+        "last_name": "ჩადუნელი",
+        "email": "vepxviagoguaze@example.org",
+        "age": 64,
+        "is_active": true
+    },
+    {
+        "first_name": "რიტა",
+        "last_name": "ბერუაშვილი",
+        "email": "fkevxishvili@example.org",
+        "age": 64,
+        "is_active": true
+    },
+    {
+        "first_name": "ლევან",
+        "last_name": "ღვინიაშვილი",
+        "email": "xvichamodebaze@example.com",
+        "age": 33,
+        "is_active": true
+    },
+    {
+        "first_name": "ლარისა",
+        "last_name": "აბდულაევი",
+        "email": "jkacaze@example.org",
+        "age": 19,
+        "is_active": true
+    },
+    {
+        "first_name": "ელმირა",
+        "last_name": "ქირია",
+        "email": "sxirtlazejaba@example.org",
+        "age": 55,
+        "is_active": true
+    }
+]
